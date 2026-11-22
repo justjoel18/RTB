@@ -1,0 +1,6 @@
+{
+  "name": "RTB Intelligence",
+  "description": "Smarter Insights for Programmatic Advertising — AI-powered RTB campaign performance analyzer with deterministic programmatic metrics, anomaly detection, and Gemini insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
